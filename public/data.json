@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Karina Kapur",
+    "review": "Very nice watch",
+    "rating": 4,
+    "img": "./images/person4.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Hrritik Roushan",
+    "review": "Very nice watch",
+    "rating": 5,
+    "img": "./images/person7.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Jackuline",
+    "review": "Very nice watch",
+    "rating": 4.5,
+    "img": "./images/person6.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Salman Khan",
+    "review": "Very nice watch",
+    "rating": 3.7,
+    "img": "./images/person9.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Priyanka Chopra",
+    "review": "Very nice watch",
+    "rating": 4,
+    "img": "./images/person10.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "Rahul",
+    "review": "Very nice watch",
+    "rating": 4.7,
+    "img": "./images/person11.jpg"
+  }
+]
